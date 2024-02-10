@@ -1,1 +1,1 @@
-# DigitClassification
+# Digit-Classifier
